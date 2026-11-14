@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is my organization for non-m@lw@r3-related stuff like contributing to open-source projects
+This is my organization for contributing to open-source projects
 <!--
 
 **Here are some ideas to get you started:**
